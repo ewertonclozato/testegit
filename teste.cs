@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         Console.WriteLine("Olá Mundo");
-        Console.WriteLine("O");
+        Console.WriteLine();
         Console.ReadKey();
     }
     
